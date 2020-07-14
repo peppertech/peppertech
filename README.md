@@ -1,4 +1,9 @@
-### Hi there 👋
+# Peppertech
+### Life is short, eat dessert first!!
+You can reach me on Twitter @peppertech
+
+💬 Ask me about anything related to Oracle JavaScript Extension Toolkit (JET)
+
 
 <!--
 **peppertech/peppertech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
