@@ -1,10 +1,8 @@
 # Peppertech
 ### Life is short, eat dessert first!!
 You can reach me at:
-  * X  [@peppertech](https://twitter.com/peppertech)
   * LinkedIn [John A Brock](https://www.linkedin.com/in/johnabrock)
-
-💬 Ask me about anything related to [Oracle JavaScript Extension Toolkit (JET)](https://oracle.com/jet)
+  * Dev.to [Peppertech](https://dev.to/peppertech) 
 
 
 <!--
